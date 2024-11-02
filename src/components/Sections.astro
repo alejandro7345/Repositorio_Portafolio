@@ -1,0 +1,61 @@
+---
+interface Props {
+	title: string;
+	body: string;
+	
+}
+
+
+const {  title, body } = Astro.props;
+
+
+---
+
+
+<section class="minimal-section">
+  
+ 
+    <h2 class="section-title">{title}</h2>
+      
+     
+    <p class="section-description">{body} </p>
+
+</section>
+
+<style>
+
+
+.minimal-section {
+  
+  padding: 3rem 10rem 10rem 10rem;
+ background-color:rgb(193, 193, 206);
+ 
+  text-align: center;
+  color: #000000;
+  box-shadow: 0 5px 0px rgba(0, 0, 0, 0.1);
+ 
+}
+
+
+.section-title {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #000000;
+}
+
+
+.section-description {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+
+
+
+
+
+
+
+</style>
