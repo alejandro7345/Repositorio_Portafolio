@@ -133,3 +133,7 @@ ADVERTENCIA: Unmatched cancel notification for request id 4
 2024.11.29 11:32:07 INFO  java targets: Portafolio_3c17ee17d6, Portafolio_3c17ee17d6-test
 2024.11.29 11:32:13 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
 2024.11.29 11:32:15 INFO  time: indexed workspace in 7.72s
+2024.11.29 12:25:51 INFO  Shutting down server
+2024.11.29 12:25:51 INFO  shutting down Metals
+2024.11.29 12:25:51 INFO  Shut down connection with build server.
+2024.11.29 12:25:51 INFO  Exiting server
