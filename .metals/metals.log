@@ -1,0 +1,135 @@
+2024.11.26 01:50:38 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.26 01:50:38 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Untitled Notebook 2024-11-19 21_33_10.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:50:39 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Untitled Notebook 2024-11-19 21_33_10.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:50:40 INFO  Running List(C:\Users\alcav\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\alcav\Documents\PortafolioAstro\Portafolio)
+2024.11.26 01:50:40 INFO  Attempting to connect to the build server...
+2024.11.26 01:50:40 INFO  Running BSP server List(C:\Users\alcav\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-envs.json, C:\Users\alcav\Documents\PortafolioAstro\Portafolio)
+2024.11.26 01:50:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.metals\bsp.trace.json or C:\Users\alcav\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.26 01:50:42 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Untitled Notebook 2024-11-19 21_33_10.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:50:47 INFO  time: Connected to build server in 6.49s
+2024.11.26 01:50:47 INFO  Connected to Build server: scala-cli v1.5.1
+2024.11.26 01:50:47 INFO  running doctor check
+2024.11.26 01:50:47 INFO  java targets: Portafolio_3c17ee17d6, Portafolio_3c17ee17d6-test
+2024.11.26 01:50:48 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 01:50:48 INFO  time: compiled Portafolio_3c17ee17d6 in 0.92s
+2024.11.26 01:50:49 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 01:50:50 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.26 01:50:51 INFO  time: compiled Portafolio_3c17ee17d6 in 1.53s
+2024.11.26 01:50:51 INFO  time: indexed workspace in 4.18s
+2024.11.26 01:50:52 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 01:50:52 INFO  time: compiled Portafolio_3c17ee17d6 in 0.54s
+2024.11.26 01:50:54 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 01:50:56 INFO  time: compiled Portafolio_3c17ee17d6 in 1.35s
+2024.11.26 01:51:58 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Proyecto.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:51:58 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Proyecto.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:51:58 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Proyecto.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:51:58 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Proyecto.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:51:58 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Proyecto.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:51:59 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Proyecto.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:51:59 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Proyecto.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:52:00 INFO  Cancelling compilation on scala-cli server
+2024.11.26 01:52:00 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Proyecto.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:52:00 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 01:52:00 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Proyecto.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 01:52:00 WARN  Invalid text document uri received from build server: file:///C:/Users/alcav/Documents/PortafolioAstro/Portafolio/public/Untitled%20Notebook%202024-11-19%2021_33_10.scala
+2024.11.26 01:52:00 INFO  time: compiled Portafolio_3c17ee17d6 in 0.68s
+2024.11.26 01:52:00 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 01:52:01 INFO  time: Imported build in 0.78s
+2024.11.26 01:52:01 INFO  running doctor check
+2024.11.26 01:52:01 INFO  java targets: Portafolio_3c17ee17d6, Portafolio_3c17ee17d6-test
+2024.11.26 01:52:01 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 01:52:01 INFO  time: compiled Portafolio_3c17ee17d6 in 0.45s
+2024.11.26 01:52:02 INFO  time: indexed workspace in 1.92s
+2024.11.26 01:52:03 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 01:52:03 INFO  time: compiled Portafolio_3c17ee17d6 in 0.3s
+2024.11.26 01:59:34 INFO  Shutting down server
+2024.11.26 01:59:34 INFO  shutting down Metals
+2024.11.26 01:59:34 INFO  Shut down connection with build server.
+2024.11.26 01:59:34 INFO  BSP server: Nov 26, 2024 1:59:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+2024.11.26 01:59:34 INFO  Exiting server
+2024.11.26 20:53:05 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\alcav\Documents\PortafolioAstro\Portafolio' for client Visual Studio Code 1.95.3.
+2024.11.26 20:53:05 INFO  time: initialize in 0.14s
+2024.11.26 20:53:07 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.26 20:53:08 INFO  Attempting to connect to the build server...
+2024.11.26 20:53:08 INFO  Running BSP server List(C:\Users\alcav\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-envs.json, C:\Users\alcav\Documents\PortafolioAstro\Portafolio)
+2024.11.26 20:53:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.metals\bsp.trace.json or C:\Users\alcav\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.26 20:53:17 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Proyecto.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.11.26 20:53:19 INFO  BSP server: Starting compilation server
+2024.11.26 20:53:23 INFO  no build target found for C:\Users\alcav\Documents\PortafolioAstro\Portafolio\public\Proyecto.scala. Using presentation compiler with project's scala-library version: 3.3.4
+nov. 26, 2024 8:53:23 P. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4
+2024.11.26 20:53:42 INFO  time: Connected to build server in 34s
+2024.11.26 20:53:42 INFO  Connected to Build server: scala-cli v1.5.1
+2024.11.26 20:53:42 INFO  time: Imported build in 0.2s
+2024.11.26 20:53:42 INFO  running doctor check
+2024.11.26 20:53:42 INFO  java targets: Portafolio_3c17ee17d6, Portafolio_3c17ee17d6-test
+2024.11.26 20:53:45 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 20:53:47 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.26 20:53:48 INFO  time: indexed workspace in 6.25s
+2024.11.26 20:53:58 INFO  time: compiled Portafolio_3c17ee17d6 in 13s
+2024.11.26 20:53:58 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 20:54:01 INFO  time: compiled Portafolio_3c17ee17d6 in 2.89s
+2024.11.26 20:54:03 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 20:54:05 INFO  time: compiled Portafolio_3c17ee17d6 in 1.45s
+2024.11.26 21:55:08 INFO  compiling portafolio_3c17ee17d6 (1 scala source)
+2024.11.26 21:55:08 INFO  time: compiled Portafolio_3c17ee17d6 in 0.95s
+2024.11.26 22:08:45 INFO  Cancelling compilation on scala-cli server
+2024.11.26 22:08:45 INFO  time: Imported build in 0.36s
+2024.11.26 22:08:46 INFO  time: Imported build in 0.37s
+2024.11.26 22:08:45 INFO  running doctor check
+2024.11.26 22:08:45 INFO  java targets: 
+2024.11.26 22:08:46 INFO  running doctor check
+2024.11.26 22:08:46 INFO  java targets: Portafolio_3c17ee17d6, Portafolio_3c17ee17d6-test
+2024.11.26 22:08:47 INFO  time: indexed workspace in 1.74s
+2024.11.26 22:08:48 INFO  time: indexed workspace in 1.77s
+2024.11.26 22:15:31 INFO  Shutting down server
+2024.11.26 22:15:31 INFO  shutting down Metals
+2024.11.26 22:15:31 INFO  Shut down connection with build server.
+2024.11.26 22:15:31 INFO  Exiting server
+2024.11.26 22:16:42 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\alcav\Documents\PortafolioAstro\Portafolio' for client Visual Studio Code 1.95.3.
+2024.11.26 22:16:43 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.26 22:16:43 INFO  Attempting to connect to the build server...
+2024.11.26 22:16:43 INFO  Running BSP server List(C:\Users\alcav\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-envs.json, C:\Users\alcav\Documents\PortafolioAstro\Portafolio)
+2024.11.26 22:16:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.metals\bsp.trace.json or C:\Users\alcav\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.26 22:16:50 INFO  time: Connected to build server in 6.89s
+2024.11.26 22:16:50 INFO  Connected to Build server: scala-cli v1.5.1
+2024.11.26 22:16:50 INFO  running doctor check
+2024.11.26 22:16:50 INFO  java targets: Portafolio_3c17ee17d6, Portafolio_3c17ee17d6-test
+2024.11.26 22:16:54 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.26 22:16:54 INFO  time: indexed workspace in 4.02s
+2024.11.26 22:28:44 INFO  Shutting down server
+2024.11.26 22:28:44 INFO  shutting down Metals
+2024.11.26 22:28:45 INFO  Shut down connection with build server.
+2024.11.26 22:28:44 INFO  Exiting server
+2024.11.26 22:29:22 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\alcav\Documents\PortafolioAstro\Portafolio' for client Visual Studio Code 1.95.3.
+2024.11.26 22:29:25 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.26 22:29:25 INFO  Attempting to connect to the build server...
+2024.11.26 22:29:25 INFO  Running BSP server List(C:\Users\alcav\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-envs.json, C:\Users\alcav\Documents\PortafolioAstro\Portafolio)
+2024.11.26 22:29:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.metals\bsp.trace.json or C:\Users\alcav\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.26 22:29:32 INFO  time: Connected to build server in 6.71s
+2024.11.26 22:29:32 INFO  Connected to Build server: scala-cli v1.5.1
+2024.11.26 22:29:32 INFO  running doctor check
+2024.11.26 22:29:32 INFO  java targets: Portafolio_3c17ee17d6, Portafolio_3c17ee17d6-test
+2024.11.26 22:29:35 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.26 22:29:35 INFO  time: indexed workspace in 3.68s
+2024.11.27 00:25:54 INFO  Shutting down server
+2024.11.27 00:25:54 INFO  shutting down Metals
+2024.11.27 00:25:54 INFO  Shut down connection with build server.
+2024.11.27 00:25:54 INFO  Exiting server
+2024.11.29 11:31:38 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\alcav\Documents\PortafolioAstro\Portafolio' for client Visual Studio Code 1.95.3.
+2024.11.29 11:31:40 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.29 11:31:40 INFO  Attempting to connect to the build server...
+2024.11.29 11:31:40 INFO  Running BSP server List(C:\Users\alcav\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.scala-build\ide-envs.json, C:\Users\alcav\Documents\PortafolioAstro\Portafolio)
+2024.11.29 11:31:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\alcav\Documents\PortafolioAstro\Portafolio\.metals\bsp.trace.json or C:\Users\alcav\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.11.29 11:31:44 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.11.29 11:31:44 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.11.29 11:31:44 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.11.29 11:31:49 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.11.29 11:31:54 INFO  BSP server: Starting compilation server
+2024.11.29 11:32:07 INFO  time: Connected to build server in 26s
+2024.11.29 11:32:07 INFO  Connected to Build server: scala-cli v1.5.1
+2024.11.29 11:32:07 INFO  time: Imported build in 0.2s
+2024.11.29 11:32:07 INFO  running doctor check
+2024.11.29 11:32:07 INFO  java targets: Portafolio_3c17ee17d6, Portafolio_3c17ee17d6-test
+2024.11.29 11:32:13 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.11.29 11:32:15 INFO  time: indexed workspace in 7.72s
